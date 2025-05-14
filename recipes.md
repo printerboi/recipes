@@ -2,4 +2,4 @@
 
 ### Sauces and Dips
 
-- [Chimichurri](/recipes/?recipe=chimichurri)
+- [Chimichurri](recipes/?recipe=chimichurri)
