@@ -7,6 +7,8 @@
     <meta name="robots" content="noindex">
     <title>Recipes</title>
 
+    <base href="/recipes/">
+
     <script src="libs/markdown-it.min.js"></script>
     <link rel="stylesheet" href="libs/modern-normalize.min.css">
     <link rel="stylesheet" href="libs/water.light.min.css">
@@ -125,12 +127,12 @@
                 return;
             }
 
-            const result = await fetch(`/recipes/recipes/${recipeFile}.md`);
+            const result = await fetch(`/recipes/${recipeFile}.md`);
             return result.text();
         }
 
         async function loadRecipeList() {
-            const result = await fetch(`/recipes/recipes.md`);
+            const result = await fetch(`/recipes.md`);
             return result.text();
         }
 
