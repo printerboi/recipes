@@ -1,6 +1,6 @@
 # Naan
 
-![](/images/naan.jpg)
+![](../images/images/naan.jpg)
 
 ## Ingredients
 
