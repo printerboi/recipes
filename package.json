@@ -1,0 +1,29 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "![recipes](https://github.com/user-attachments/assets/042340b5-96da-411a-a928-049b78a86710)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/printerboi/recipes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/printerboi/recipes/issues"
+  },
+  "homepage": "https://github.com/printerboi/recipes#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
