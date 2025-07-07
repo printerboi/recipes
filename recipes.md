@@ -1,5 +1,9 @@
 ## Recipes
 
+### 🍛 Main dishes
+
+- [Butter chicken](?recipe=butter-chicken)
+
 ### 🍞 Side dishes
 
 - [Naan](?recipe=naan)

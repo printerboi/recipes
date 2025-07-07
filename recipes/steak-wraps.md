@@ -26,3 +26,5 @@
 ### Putting it all together
 
 Start by placing the wrap on a plate or on a working surface. Spread 1 or 2 big spoons of creme fraiche on the wrap and add 1 or 2 leaves of lettuce. Place some strips of the meat in the middle of the wrap. Add the tomatoes. Sprinkle the filling with 2 spoons of chimichurri. Fold the wrap like a burrito and enjoy.
+
+Bon appétit

@@ -10,6 +10,10 @@ app.use((req, res, next) => {
     req.url = req.url.replace('/recipes/recipes/', '/recipes/');
   }
 
+  if (req.url.startsWith('/recipes/images/')) {
+    req.url = req.url.replace('/recipes/images/', '/images/');
+  }
+
   if (req.path === '/recipes/' || req.path === '/recipes') {
     return res.redirect('/');
   }

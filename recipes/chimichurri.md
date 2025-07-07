@@ -29,3 +29,5 @@
 Start by putting the mint leaves and the parsley into a mortar. Grind up the leaves and add the onions and the garlic. Continue the grinding by adding chili to the mixture. Pour in the olive oil and mix the created emulsion. Finish the chimichurri by adding Italian herbs and coarse salt.
 
 Serve the chimichurri with grilled meat, a vegetarian alternative, or roasted vegetables.
+
+Bon appétit
