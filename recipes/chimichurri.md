@@ -1,6 +1,6 @@
 # Chimichurri
 
-![](/images/chimichurri.jpg)
+![](/recipes/images/chimichurri.jpeg)
 
 ## Ingredients
 

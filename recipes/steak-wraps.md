@@ -1,6 +1,6 @@
 # Steak wraps
 
-![](/images/steak-wraps.jpg)
+![](/recipes/images/steak-wraps.jpeg)
 
 ## Ingredients
 
