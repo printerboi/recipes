@@ -4,9 +4,7 @@
 
 Welcome to this repository. Here I will store recipes that I cooked. Feel free to reuse the recipes.
 
-<div style="text-align:center">
-<a href="https://printerboi.github.io/recipes/">Recipe Link</a>
-</div>
+[Recipe Link](https://printerboi.github.io/recipes/)
 
 
 # Credit
