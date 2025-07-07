@@ -15,3 +15,7 @@
 ### 🥣 Sauces and Dips
 
 - [Chimichurri](?recipe=chimichurri)
+
+### 🍰 Sweet stuff
+
+- [Brownies](?recipe=brownies)
