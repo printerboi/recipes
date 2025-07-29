@@ -57,7 +57,6 @@ After the final folding, cool the dough for 3h
 - Cut the dough into isosceles long triangles
 - Roll each triangle towards its tip
 - Place the croissants on a baking tray
-
 - Add the egg yolks, milk and the salt into a bowl
 - Stir until a smooth liquid forms
 - Brush the croissants with the egg-milk mixture, this will give them a nice tan
