@@ -12,6 +12,9 @@
 - **2** Spoons of brown sugar
 - **1** Spoon of butter
 
+Toppings:
+- **Cinnamon**
+
 ## Cooking
 
 - Slice the peach into equal sized-chunks
@@ -20,5 +23,6 @@
 - Place the peaches into the butter-sugar mixture and fry until each side is glazed in sugar
 - Spread the goat cheese on the bread
 - Add two slices of peach on top of each bread and serve
+- Sprinkle with cinnamon
 
 Bon appétit
