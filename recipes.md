@@ -11,6 +11,7 @@ This category features side dishes that add that perfect finishing touch to any 
 ## 🌯 Snacks
 Whether it’s a lazy Saturday or a hectic weekday, this category features quick and easy snacks that are ready in no time—and still taste amazing.
 - [Steak Wraps](?recipe=steak-wraps)
+- [Glazed peaches on goat cheese](?recipe=glazed-peaches-on-goat-cheese)
 
 ## 🥣 Sauces and Dips
 Need a sauce or dip to liven up a plain meal? This category offers plenty of inspiration to add that extra touch to any dish.
