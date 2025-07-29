@@ -20,3 +20,4 @@ Need a sauce or dip to liven up a plain meal? This category offers plenty of ins
 Desserts, cakes, and sweet main dishes—everything to warm the soul of anyone with a sweet tooth.
 - [Brownies](?recipe=brownies)
 - [Kaiserschmarn](?recipe=kaiserschmarn)
+- [Croissants](?recipe=croissants)
