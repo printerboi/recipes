@@ -22,3 +22,4 @@ Desserts, cakes, and sweet main dishes—everything to warm the soul of anyone w
 - [Brownies](?recipe=brownies)
 - [Kaiserschmarn](?recipe=kaiserschmarn)
 - [Croissants](?recipe=croissants)
+- [Cinnamon Buns](?recipe=cinnamon-buns)
