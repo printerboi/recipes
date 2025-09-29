@@ -24,7 +24,7 @@
 - **1** Small spoon of ginger
 - **2** Small spoons of tandoori masala
 - **1** Small spoon of bell pepper powder
-- **500g** Tomato puree
+- **500g** Passata
 - **200g** Cream
 
 ## Cooking
@@ -44,7 +44,7 @@
 - Using the same pan from frying the meat/replacement, add olive oil and reheat the pan again
 - Add the onions and fry until translucent. Throw in 2 spoons of butter and let it melt.
 - Add the pressed garlic and the ginger and fry briefly.
-- Insert the tomato puree, the garam masala, and the bell pepper powder.
+- Insert the passata, the tandoori masala, and the bell pepper powder.
 - Let the mixture cook for five more minutes.
 - Add the cream.
 - Insert the meat/replacement and 2 spoons of butter.
