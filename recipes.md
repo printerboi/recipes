@@ -3,6 +3,7 @@
 ## 🍛 Main dishes
 This category offers hearty main dishes that take center stage and satisfy every appetite.
 - [Butter chicken](?recipe=butter-chicken)
+- [Gyoza](?recipe=gyozas)
 
 ## 🍞 Side dishes
 This category features side dishes that add that perfect finishing touch to any meal.
